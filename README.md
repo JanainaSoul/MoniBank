@@ -87,4 +87,12 @@ Em seguida, será necessário somar todos os valores resultados pela multiplica�
 
 Novamente, precisamos verificar para caso o resultado for 10 ou 11, será necessário zera-lo. Como novamente não foi o caso, o número 4 realmente é o segundo dígito verificador do CPF base.
 
+Para Saber Mais: localStorage e DOM
+
+Durante o projeto selecionamos elementos do HTML para pegar seus valores, para criar novas validações, para inserir textos, entre outros casos. Para conseguir realizar essas ações, estamos interagindo com o Document Object Model (DOM). Isso é algo que abordamos em vários projetos mas temos um curso em específico pra te ajudar nesse assunto: JavaScript: manipulando o DOM -> https://cursos.alura.com.br/course/javascript-manipulando-dom, não deixe de dar uma passadinha por lá.
+
+Para armazenamento dos dados do formulário foi utilizado o localStorage. O objeto localStorage permite salvar pares de chave/valor no navegador sem data de expiração, ou seja, os dados não são excluídos quando o navegador é fechado e ficam disponíveis para navegação futura. Você pode se aprofundar mais no assunto com o treinamento JavaScript na Web: armazenando dados no navegador do instrutor Pedro Marins -> https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador e com o artigo "Armazenadores de dados do navegador" do Luan Alves -> https://www.alura.com.br/artigos/armazenadores-de-dados-do-navegador?utm_source=gnarus&utm_medium=timeline.
+
+
+
 
