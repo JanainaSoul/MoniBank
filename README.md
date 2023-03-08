@@ -14,3 +14,25 @@
 
 
 ## Conteúdo
+01 - Validando o HTML:
+
+tipos de input
+
+min-length e max-length
+
+required
+
+
+
+
+
+## Para saber mais:
+
+Para saber mais: lidando com inputs
+PRÓXIMA ATIVIDADE
+
+Durante essa aula lidamos com alguns tipos de input. É importante entender a função deles e de outros existentes:
+
+![image](https://user-images.githubusercontent.com/104031152/223828858-fb8c175f-d1e4-4f9a-85bc-2b791a0a99ac.png)
+
+Além disso, você pode aprender mais sobre lidar com dados do usuário no artigo “Recebendo dados de usuário na Web com inputs” do instrutor Luan Alves.
