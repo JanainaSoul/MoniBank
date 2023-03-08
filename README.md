@@ -16,12 +16,15 @@
 ## Conteúdo
 01 - Validando o HTML:
 
-tipos de input
+tipos de input/ min-length e max-length / required;
 
-min-length e max-length
+Definir tipos para campos de digitação;
 
-required
+Limitar a quantidade de caracteres em um elemento input;
 
+Controlar a quantidade mínima de caracteres do input;
+
+Transformar um campo em obrigatório.
 
 
 
