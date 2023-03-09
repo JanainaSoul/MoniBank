@@ -100,5 +100,5 @@ https://cursos.alura.com.br/dashboard
 
 https://cursos.alura.com.br/formacao-svelte
 
-https://cursos.alura.com.br/formacao-react-javascript
+https://cursos.alura.com.br/formacao-react-javascript 
 
