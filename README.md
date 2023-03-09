@@ -52,6 +52,31 @@ Lidar com datas em JavaScript;
 
 Construir comparações de datas para verificar maioridade.
 
+04 - Comunicando ao Usuário:
+
+Encontrar as validações padrões que existem no JavaScript com o Validity State;
+
+Interpretar cada tipo de erro;
+
+Criar mensagens customizadas;
+
+Remover o comportamento padrão de erro do HTML;
+
+Mostrar as mensagens customizadas na página;
+
+Salvar dados no localStorage.
+
+05 - Capturando fotos:
+
+Iniciar camêra do usuário no navegador;
+
+Capturar fotografia;
+
+Lidar com eventos de click;
+
+Aplicar um fluxo de navegação escondendo e mostrando elementos;
+
+Inserir novos dados no localStorage.
 
 ## Para saber mais:
 
