@@ -119,6 +119,8 @@ Durante o projeto selecionamos elementos do HTML para pegar seus valores, para c
 Para armazenamento dos dados do formulário foi utilizado o localStorage. O objeto localStorage permite salvar pares de chave/valor no navegador sem data de expiração, ou seja, os dados não são excluídos quando o navegador é fechado e ficam disponíveis para navegação futura. Você pode se aprofundar mais no assunto com o treinamento JavaScript na Web: armazenando dados no navegador do instrutor Pedro Marins -> https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador e com o artigo "Armazenadores de dados do navegador" do Luan Alves -> https://www.alura.com.br/artigos/armazenadores-de-dados-do-navegador?utm_source=gnarus&utm_medium=timeline.
 
 ## Links
+https://www.4devs.com.br/gerador_de_cpf 
+
 https://cursos.alura.com.br/formacao-vuejs3
 
 https://cursos.alura.com.br/dashboard
